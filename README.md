@@ -26,7 +26,7 @@ Diana DeGette, who recieved 73.% of the votes.
 
 ## Precinct Audit
 This election audit was done to determine the number of votes per county in Colorado.
-This was done to analize voter turnout in different regions of the State.
+This was done to analyze voter turnout in different regions of the State.
 
 ## Audit Results
 It must be noted that:
