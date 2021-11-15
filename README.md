@@ -23,3 +23,24 @@ The candidate resuls where:
 
 The winner of the election was:
 Diana DeGette, who recieved 73.% of the votes.
+
+## Precinct Audit
+This election audit was done to determine the number of votes per county in Colorado.
+This was done to analize voter turnout in different regions of the State.
+
+## Audit Results
+It must be noted that:
+-The county with the highest voter turnout was Denver County with 82.8%
+-Followed by Jefferson County with 10.5%
+-Lastly, Arapahoe County with 6.7%
+- The voter turnout in Denver County was 306,055!
+
+## Election Audit Summary
+This script is useful for determining what percentage of voters chose each candidate variouse electoral regions.
+One may add as many candidates as needed and as many electoral areas as there may be.
+In another election, the script can be modified to also take into account:
+- The politial tendencies (democrat or republican) of an area by adding a fourth collum with the party affiliation.
+- The order preferences (third, fourth, ect.) of multiple candidates in a certain region.
+
+
+
